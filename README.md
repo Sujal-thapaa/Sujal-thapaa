@@ -229,6 +229,6 @@ while(curious) {
 
 <div align="center">
   
-  ⭐ From [Sujal-thapaa](https://github.com/Sujal-thapaa) | Made with ❤️, lots of ☕, and a touch of mathematical elegance
+  ⭐ From [Sujal-thapaa](https://chatgpt.com) | Made with ❤️, lots of ☕, and a touch of mathematical elegance
   
 </div>
